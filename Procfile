@@ -1,1 +1,1 @@
-web: gunicorn incomesite.wsgi:application --log-file -
+web: gunicorn incomesite.wsgi
