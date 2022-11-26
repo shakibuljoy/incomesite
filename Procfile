@@ -1,1 +1,1 @@
-web: gunicorn incomesite.wsgi
+web: gunicorn incomesite:app
